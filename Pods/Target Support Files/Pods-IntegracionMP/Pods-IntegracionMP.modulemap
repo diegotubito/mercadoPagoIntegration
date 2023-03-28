@@ -1,0 +1,6 @@
+framework module Pods_IntegracionMP {
+  umbrella header "Pods-IntegracionMP-umbrella.h"
+
+  export *
+  module * { export * }
+}

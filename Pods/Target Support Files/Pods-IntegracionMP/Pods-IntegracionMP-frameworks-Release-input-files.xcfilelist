@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-IntegracionMP/Pods-IntegracionMP-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FXBlurView/FXBlurView.framework
+${BUILT_PRODUCTS_DIR}/JRSwizzle/JRSwizzle.framework
+${BUILT_PRODUCTS_DIR}/MLCardDrawer/MLCardDrawer.framework
+${BUILT_PRODUCTS_DIR}/MLUI/MLUI.framework
+${BUILT_PRODUCTS_DIR}/MercadoPagoSDK/MercadoPagoSDK.framework
